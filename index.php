@@ -31,6 +31,8 @@
                         <li><a href="exercicio.php?dir=tipos&file=float">Tipo Float</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=aritimeticas">Operações Aritiméticas</a></li>
                         <li><a href="exercicio.php?dir=tipos&file=desafio_precedencia">Desafio Precedência</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=string">Tipo String</a></li>
+                        <li><a href="exercicio.php?dir=tipos&file=desafio_string">Desafio String</a></li>
                     </ul>
                 </div>
             </nav>
